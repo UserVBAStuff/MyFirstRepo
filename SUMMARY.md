@@ -13,7 +13,8 @@
 
 ## TstGroupBooks <a id="test"></a>
 
-* [Untitled](test/untitled-1.md)
+* [TstGrpFile1](test/untitled-1.md)
+* [TstGrpFile2](test/tstgrpfile2.md)
 
 ## GitBookPages
 
