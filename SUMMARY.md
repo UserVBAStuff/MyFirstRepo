@@ -13,7 +13,8 @@
 
 ## TstGroupBooks <a id="test"></a>
 
-* [not GitHub  KonformPage](test/not-github-konformpage.md)
 * [Untitled](test/untitled-1.md)
 * [Untitled](test/untitled.md)
+
+## GitBookPages
 
