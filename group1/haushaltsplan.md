@@ -8,7 +8,7 @@ Abbildung :Berechnung von monatlichen. Posten
 
 Problematisch kann es aber sein, wenn hier sehr viele Belege aufsummiert werden müssen oder evtl. die Belegwerte noch nicht direkt verwendet werden können \(nicht ausgewiesener Preisnachlass, Anteilsberechnung, etc.\). Im Beispiel unten ist eine etwas aufwändigere Aufsummierung notwendig.
 
-![](../.gitbook/assets/1-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/1-1%20%281%29.png)
 
 Abbildung : Aufsummierungen langer Posten
 
@@ -24,43 +24,14 @@ Dieses ist mittels Kommentar oder als Infos in anderen Zellen möglich, diese ka
 
 Das Problem, dass man hier einmal in der Berechnungsformel zum einen Werte aufsummiert und an anderer Stelle diese dokumentiert ist zum einen doppelt und löst in vielen nicht komplett das Problem der Nachvollziehbarkeit.
 
-|  | Variante1: Beleginfos als Kommentar | <table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">Variante1: Beleginfos als Kommentar</th>
-      <th style="text-align:left">Variante2: Beleginfos als ind anderen Zellen |
-| :--- | :--- | :--- |
+\| \| Variante1: Beleginfos als Kommentar \|      Variante2: Beleginfos als ind anderen Zellen \| \| :--- \| :--- \| :--- \|
 
+|  ![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/2-1%20%281%29.png) |
+| :--- |
 
-<table</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <thd style="text-align:left">
-        <img src="../.gitbook/assets/2-1 (1).png" alt/>
-      </thd>
-      <thd style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/3.png" alt/>
-        </p>
-        <p>Abbildung :Infos zu den Belegen als Kommentar</p>
-      </thd>
-      <thd style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/4-1 (1).png" alt/>
-        </p>
-        <p>Abbildung :Infos zu den Belegen in anderen Textzellen</p>
-      </thd>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>body>
-</table>Mischformen sind auch eine guter weg.
 
 * Einzelpositionen in Nicht sichtbare Spalten, dieses Gruppieren zum Ausblenden
-*  Einzelpositionen in andere Tabellen eintragen und aufsummieren
+* Einzelpositionen in andere Tabellen eintragen und aufsummieren
 
 Diese Tabellen können sich in im selben Tabellenblatt, einem anderen Tabellenblatt derselben Arbeitsmappe. Ebenso können diese Monatseinzelpositionen auf andere Dateien verteilt werden.
 
@@ -68,29 +39,29 @@ Der Einfachheit halber werden die Aufteilung auf unterschiedliche Dateien nicht 
 
 Man legt hierfür ein anderes Tabellenblatt an, dieses sollte sich in der gleichen Datei befinden. Das Auslagern in andere Dateien ist Gründen der Abhängigkeit und Aktualität von Daten nicht zu empfehlen.
 
-![](../.gitbook/assets/5-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/5-1%20%281%29.png)
 
 Abbildung : Variante 1 - feste Referenzierung über Formel **Tabellenblatt!Zellbezug**
 
-![](../.gitbook/assets/6-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/6-1%20%281%29.png)
 
 Abbildung : Variante 1 - feste Referenzieren über Formel **eindeutigen Namen einer Zelle**
 
-###  Gruppieren von Spalte- /Zeileninhalten
+### Gruppieren von Spalte- /Zeileninhalten
 
 #### Gruppieren von Spalteninhalten
 
 #### Gruppieren von Zeileninhalten
 
-###  Einzelposten in anderen Tabellensheets übertragen und die Ergebnisse übernehmen
+### Einzelposten in anderen Tabellensheets übertragen und die Ergebnisse übernehmen
 
 Als Beispiel dient hier der März 2020. Hier wollen wird die Direkteingabe von € 400 oder Aufsummierung \(z.B. =50+50+50+50+50\) ersetzen durch eine detaillierte Teilauflistung.
 
-![](../.gitbook/assets/7-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/7-1%20%281%29.png)
 
 Abbildung : März 2020
 
-![](../.gitbook/assets/8-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/8-1%20%281%29.png)
 
 ![](../.gitbook/assets/9%20%281%29.png)
 
@@ -100,7 +71,7 @@ Einen Rechtklick auf Tabelle 1 \(oder ähnlicher Tabellname\) ausführen.
 
 Es erscheint folgendes Menü
 
-![](../.gitbook/assets/10-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/10-1%20%281%29.png)
 
 Dort Umrennen auswählen und ein eindeutigen Namen Verwenden.
 
@@ -108,7 +79,7 @@ Da es hier um einen Haushaltsplan eines Jahrs geht, sind Bezeichnung Januar bis 
 
 bis 12 zu empfehlen.
 
-![](../.gitbook/assets/11-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/11-1%20%281%29.png)
 
 Für März sind sind hier Tabelleninformationen einzutragen.
 
@@ -122,7 +93,7 @@ Am Ende ist eine Summenformel zu verwenden, welche die Summe eine Monatspostens 
 
 Diese wird jetzt in der den Haushaltsplan übernommen
 
-![](../.gitbook/assets/12%20%281%29.png)![](../.gitbook/assets/13-1%20%281%29.png)
+![](../.gitbook/assets/12%20%281%29.png)![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/13-1%20%281%29.png)
 
 Der Wert aus der Tabelle 03 in der Zelle C30 ist über die Formel =‘Name des Tabellenblatts’!Zellbezug verfügbar.
 
@@ -150,7 +121,7 @@ Daher gibt es eine kleine Verbesserung um das sofort ersichtlich zu machen.
 
 Bei Betätigen der rechten Maustaste
 
-###  Einzelposten in anderen Excel-dateien
+### Einzelposten in anderen Excel-dateien
 
 ### Ein- und Ausblenden von Spalten
 
@@ -158,10 +129,7 @@ Bei Betätigen der rechten Maustaste
 
 ### Auslagern von Einzeltabellen in andere Tabellenblätter
 
-![](../.gitbook/assets/15-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/15-1%20%281%29.png)
 
-![](../.gitbook/assets/16-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/16-1%20%281%29.png)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4NjQ5MTNdfQ==
--->
