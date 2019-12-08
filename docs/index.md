@@ -43,5 +43,4 @@
 ## Head1-2
 
 
-{% file src=".gitbook/assets/haushaltsplan\_kapitel2.docx" caption="download" %}
 
