@@ -1,9 +1,5 @@
 # Initial page
 
-{% page-ref page="group1/haushaltsplan.md" %}
-
-{% page-ref page="./" %}
-
 > > ```text
 > > Private Sub TextBox2_KeyPress(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles TextBox1.KeyPress
 > >     If e.KeyChar = Convert.ToChar(1) Then
@@ -39,21 +35,8 @@
 * [ ] check1
 * [ ] check2
 
-{% tabs %}
-{% tab title="First Tab" %}
 ## haed1-1
-{% endtab %}
-
-{% tab title="Second Tab" %}
+headt
 ## Head1-2
-{% endtab %}
-{% endtabs %}
-
-{% hint style="success" %}
-hint
-{% endhint %}
-
-{% page-ref page="./" %}
-
-{% file src=".gitbook/assets/haushaltsplan\_kapitel2.docx" caption="download" %}
+endt
 
