@@ -24,5 +24,5 @@
   * [group1](gitbookpages/dummy/group1.md)
   * [group2](gitbookpages/dummy/group2.md)
   * [Welcometo stackedit](gitbookpages/dummy/welcometo-stackedit.md)
-* [Guide](guide.md)
+* [Guide](gitbookpages/guide.md)
 
