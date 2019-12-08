@@ -1,6 +1,6 @@
-# Table of contents
+# Initial page
 
-* [Initial page](README.md)
+* [Initial page](./)
 
 ## Group1
 
@@ -9,13 +9,11 @@
 ## Group2
 
 * [Untitled](group2/untitled.md)
-* [Untitled](group2/untitled-1.md)
+* [Untitled]()
 
 ## test
 
 * [not GitHub  KonformPage](test/not-github-konformpage.md)
-* [Untitled](test/untitled-1.md)
-* [Untitled](test/untitled.md)
-
-
+* [Untitled]()
+* [Untitled]()
 
