@@ -14,7 +14,8 @@
 ## TstGroupBooks <a id="test"></a>
 
 * [Untitled](test/untitled-1.md)
-* [Untitled](test/untitled.md)
 
 ## GitBookPages
+
+* [Dummy](dummy.md)
 
