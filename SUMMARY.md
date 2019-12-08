@@ -20,8 +20,6 @@
 
 * [Change](change.md)
 * [Untitled](dummy/README.md)
-  * [docs](dummy/docs/README.md)
-    * [index](dummy/docs/index.md)
   * [group1](dummy/group1/README.md)
     * [haushaltsplan](dummy/group1/haushaltsplan.md)
   * [group2](dummy/group2/README.md)
