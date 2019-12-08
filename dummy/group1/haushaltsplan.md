@@ -2,7 +2,7 @@
 
 ## Einzeldetaillierungen
 
-In vielen Fällen ist es ausreichend Belegbeträge für Ein- und Ausgaben dirket in einer Formalzusammen zufassen![](../.gitbook/assets/0%20%281%29.png)
+In vielen Fällen ist es ausreichend Belegbeträge für Ein- und Ausgaben dirket in einer Formalzusammen zufassen
 
 Abbildung :Berechnung von monatlichen. Posten
 
@@ -24,9 +24,9 @@ Dieses ist mittels Kommentar oder als Infos in anderen Zellen möglich, diese ka
 
 Das Problem, dass man hier einmal in der Berechnungsformel zum einen Werte aufsummiert und an anderer Stelle diese dokumentiert ist zum einen doppelt und löst in vielen nicht komplett das Problem der Nachvollziehbarkeit.
 
-\| \| Variante1: Beleginfos als Kommentar \|      Variante2: Beleginfos als ind anderen Zellen \| \| :--- \| :--- \| :--- \|
+\| \| Variante1: Beleginfos als Kommentar \| Variante2: Beleginfos als ind anderen Zellen \| \| :--- \| :--- \| :--- \|
 
-|  ![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/2-1%20%281%29.png) |
+| ![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/2-1%20%281%29.png) |
 | :--- |
 
 
@@ -63,8 +63,6 @@ Abbildung : März 2020
 
 ![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/8-1%20%281%29.png)
 
-![](../.gitbook/assets/9%20%282%29.png)
-
 Die neue Tabellenblatt hat jetzt einen Namen wie Tabelle1.
 
 Einen Rechtklick auf Tabelle 1 \(oder ähnlicher Tabellname\) ausführen.
@@ -93,7 +91,7 @@ Am Ende ist eine Summenformel zu verwenden, welche die Summe eine Monatspostens 
 
 Diese wird jetzt in der den Haushaltsplan übernommen
 
-![](../.gitbook/assets/12%20%282%29.png)![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/13-1%20%281%29.png)
+![](https://github.com/UserVBAStuff/MyFirstRepo/tree/ff5af93104261383d6807e8b30c9005f199ce2b3/.gitbook/assets/13-1%20%281%29.png)
 
 Der Wert aus der Tabelle 03 in der Zelle C30 ist über die Formel =‘Name des Tabellenblatts’!Zellbezug verfügbar.
 
@@ -117,7 +115,7 @@ Hierbei kann durch Verschiebungen, Kopieren , etc. es vorkommen, dass hier auf d
 
 Daher gibt es eine kleine Verbesserung um das sofort ersichtlich zu machen.
 
-![](../.gitbook/assets/14.png)
+![](../../.gitbook/assets/14%20%281%29.png)
 
 Bei Betätigen der rechten Maustaste
 

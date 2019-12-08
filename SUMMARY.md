@@ -19,5 +19,18 @@
 ## GitBookPages
 
 * [Change](change.md)
-* [Dummy](dummy.md)
+* [Untitled](dummy/README.md)
+  * [docs](dummy/docs/README.md)
+    * [index](dummy/docs/index.md)
+  * [group1](dummy/group1/README.md)
+    * [haushaltsplan](dummy/group1/haushaltsplan.md)
+  * [group2](dummy/group2/README.md)
+    * [untitled-1](dummy/group2/untitled-1.md)
+    * [untitled](dummy/group2/untitled.md)
+  * [SUMMARY](dummy/summary.md)
+  * [test](dummy/test/README.md)
+    * [not-github-konformpage](dummy/test/not-github-konformpage.md)
+    * [untitled-1](dummy/test/untitled-1.md)
+    * [untitled](dummy/test/untitled.md)
+  * [Welcometo stackedit](dummy/welcometo-stackedit.md)
 
