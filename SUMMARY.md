@@ -18,9 +18,10 @@
 
 ## GitBookPages
 
-* [Change](change.md)
-* [index](dummy/README.md)
-  * [group1](dummy/group1.md)
-  * [group2](dummy/group2.md)
-  * [Welcometo stackedit](dummy/welcometo-stackedit.md)
+* [index](gitbookpages/dummy/README.md)
+  * [group1](gitbookpages/dummy/group1.md)
+  * [group2](gitbookpages/dummy/group2.md)
+  * [Welcometo stackedit](gitbookpages/dummy/welcometo-stackedit.md)
+* [Change](gitbookpages/change.md)
+* [Dum1](gitbookpages/dum1.md)
 
