@@ -19,11 +19,8 @@
 ## GitBookPages
 
 * [Change](change.md)
-* [Untitled](dummy/README.md)
-  * [group1](dummy/group1/README.md)
-    * [haushaltsplan](dummy/group1/haushaltsplan.md)
-  * [group2](dummy/group2/README.md)
-    * [untitled-1](dummy/group2/untitled-1.md)
-    * [untitled](dummy/group2/untitled.md)
+* [index](dummy/README.md)
+  * [group1](dummy/group1.md)
+  * [group2](dummy/group2.md)
   * [Welcometo stackedit](dummy/welcometo-stackedit.md)
 
