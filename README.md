@@ -1,12 +1,21 @@
-# Initial page
+# Table of contents
 
-{% page-ref page="test/not-github-konformpage.md" %}
+* [Initial page](README.md)
 
-{% page-ref page="test/untitled-1.md" %}
+## Group1
 
-/test/untitled
+* [haushaltsplan](group1/haushaltsplan.md)
 
-{% page-ref page="test/untitled.md" %}
+## Group2
+
+* [Untitled](group2/untitled.md)
+* [Untitled](group2/untitled-1.md)
+
+## test
+
+* [not GitHub  KonformPage](test/not-github-konformpage.md)
+* [Untitled](test/untitled-1.md)
+* [Untitled](test/untitled.md)
 
 
 
