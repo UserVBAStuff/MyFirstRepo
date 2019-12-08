@@ -30,14 +30,11 @@
 * list 2
 * list 3
 
-
-
 1. list 1
 2. list 2
 3. list 3
-
-* [ ] check1
-* [ ] check2
+4. [ ] check1
+5. [ ] check2
 
 {% tabs %}
 {% tab title="First Tab" %}
