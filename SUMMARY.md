@@ -11,10 +11,10 @@
 * [Untitled](group2/untitled.md)
 * [Untitled](group2/untitled-1.md)
 
-## TstGroupBooks <a id="test"></a>
+## TstGroupBooks
 
-* [TstGrpFile1](test/tstgrpfile1.md)
-* [TstGrpFile2](test/tstgrpfile2.md)
+* [TstGrpFile1](tstgroupbooks/tstgrpfile1.md)
+* [TstGrpFile2](tstgroupbooks/tstgrpfile2.md)
 
 ## GitBookPages
 
