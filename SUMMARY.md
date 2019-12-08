@@ -18,10 +18,10 @@
 
 ## GitBookPages
 
+* [Dum1](gitbookpages/dum1.md)
+* [Change](gitbookpages/change.md)
 * [index](gitbookpages/dummy/README.md)
   * [group1](gitbookpages/dummy/group1.md)
   * [group2](gitbookpages/dummy/group2.md)
   * [Welcometo stackedit](gitbookpages/dummy/welcometo-stackedit.md)
-* [Change](gitbookpages/change.md)
-* [Dum1](gitbookpages/dum1.md)
 
