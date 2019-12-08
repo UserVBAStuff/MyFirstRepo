@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 
 exclude:
-  - test
+  - test/not-github-konformpage.md
